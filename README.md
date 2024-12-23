@@ -2,16 +2,19 @@
 ## Hi there 👋
 
 
-**MagongDo/MagongDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Status
 
-Here are some ideas to get you started:
+[![Web도승우's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagongDo&show_icons=true&theme=dracula)](https://github.com/MagongDo/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lpok2657)](https://solved.ac/lpok2657/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagongDo&layout=compact&theme=tokyonight)
+
+<!---
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/깃도승우?pet-id=1" width="1000" height="120"/>
+</a>
+-->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/MagongDo?pet-id=636767214029853068"  width="600" height="120" />
+</a>
 
