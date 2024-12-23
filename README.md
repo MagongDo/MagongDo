@@ -4,8 +4,8 @@
 
 ## ⚡ Status
 
-[![Web도승우's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagongDo&show_icons=true&theme=dracula)](https://github.com/MagongDo/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagongDo&theme=dark&show_icons=true)
+[![Web도승우's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagongDo&show_icons=true&theme=github_dark)](https://github.com/MagongDo/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lpok2657)](https://solved.ac/lpok2657/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagongDo&layout=compact&theme=tokyonight)
 
