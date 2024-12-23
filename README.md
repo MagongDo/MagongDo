@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagongDo&layout=compact&theme=tokyonight)
 
 
-<!--
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/MagongDo?pet-id=659033428834262742"
@@ -18,7 +18,7 @@
     height="120"
   />
 </a>
--->
+<!--
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/MagongDo"
@@ -26,4 +26,5 @@
   height="300"
 />
 </a>
+-->
   
