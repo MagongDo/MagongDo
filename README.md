@@ -9,18 +9,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lpok2657)](https://solved.ac/lpok2657/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagongDo&layout=compact&theme=tokyonight)
 
-<!---
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/깃도승우?pet-id=1" width="1000" height="120"/>
-</a>
--->
-<!---
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/MagongDo?pet-id=636767214029853068"  width="600" height="120" />
-</a>
--->
+
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/MagongDo?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/MagongDo?pet-id=659033428834262742"
+    width="600"
+    height="120"
+  />
 </a>
-
+  
