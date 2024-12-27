@@ -11,13 +11,15 @@
 
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/MagongDo?pet-id=659033428834262742"
+    src="https://render.gitanimals.org/lines/MagongDo"
     width="600"
     height="120"
   />
 </a>
+  
 <!--
 <a href="https://github.com/devxb/gitanimals">
 <img
