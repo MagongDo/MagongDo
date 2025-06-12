@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=welcome&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=welcome&fontSize=50&fontAlign=70)
 
 ## ⚡ Status
 
