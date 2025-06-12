@@ -9,7 +9,9 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagongDo&layout=compact&theme=github_dark)-->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lpok2657)](https://solved.ac/lpok2657/)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lpok2657)](https://solved.ac/lpok2657)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
