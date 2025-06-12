@@ -1,6 +1,5 @@
 ![헤더](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=저는%20매일%20성장하는%20개발자%20도승우%20입니다&fontAlign=50&fontSize=40)
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## ⚡ Status
 
