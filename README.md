@@ -16,8 +16,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
     </div><br>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"></h2>
 
 
 [![Web도승우's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagongDo&show_icons=true&theme=github_dark)](https://github.com/MagongDo/github-readme-stats)
