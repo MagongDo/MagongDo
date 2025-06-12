@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=welcome&fontSize=50&fontAlign=80)
 
-## ⚡ Status
+
 
 💻 Tech Stacks
 
@@ -12,7 +12,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-
+⚡ Status
 
 [![Web도승우's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagongDo&show_icons=true&theme=github_dark)](https://github.com/MagongDo/github-readme-stats)
 
