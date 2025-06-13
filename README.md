@@ -2,7 +2,7 @@
 
 
 
-##💻 Tech Stacks
+## 💻 Tech Stacks
 
 Backend
 
@@ -22,7 +22,7 @@ etc
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-##⚡ Status
+## ⚡ Status
 
 [![Web도승우's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagongDo&show_icons=true&theme=github_dark)](https://github.com/MagongDo/github-readme-stats)
 
